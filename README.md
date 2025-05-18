@@ -8,7 +8,7 @@ Xin Jie CHENG
 Shazir SHEIK  
 
 
-# Features 
+### Features 
 ```duration``` The duration of the flow.  
 ```fiat``` Forward Inter Arrival Time, the time between two packets sent forward direction (mean, min, max, std).  
 ```biat``` Backward Inter Arrival Time, the time between two packets sent backwards (mean, min, max, std).  
