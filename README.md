@@ -2,7 +2,7 @@
 
 
 ## Members 
-Muhammad Arif BIN SHAHRUDIN
-Yosser BEJAOUI
-Xin Jie CHENG
-Shazir SHEIK
+Muhammad Arif BIN SHAHRUDIN  
+Yosser BEJAOUI  
+Xin Jie CHENG  
+Shazir SHEIK  
